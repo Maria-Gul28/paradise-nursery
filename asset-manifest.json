@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paradise-nursery/static/css/main.faa2994d.css",
+    "main.js": "/paradise-nursery/static/js/main.199a3fd2.js",
+    "static/js/453.81c3b423.chunk.js": "/paradise-nursery/static/js/453.81c3b423.chunk.js",
+    "static/media/house-plants.png": "/paradise-nursery/static/media/house-plants.2b615de226a485975115.png",
+    "static/media/Snake-Plant.jpg": "/paradise-nursery/static/media/Snake-Plant.aed819cd64ee68fc4607.jpg",
+    "static/media/pothos.jpg": "/paradise-nursery/static/media/pothos.5d3b5948831a965ed5cf.jpg",
+    "static/media/cactus.jpg": "/paradise-nursery/static/media/cactus.3f2ddfff0cc7ac2e0a16.jpg",
+    "static/media/aloe-vera.jpg": "/paradise-nursery/static/media/aloe-vera.1e54324a165529ee8e53.jpg",
+    "static/media/gollum-jade.webp": "/paradise-nursery/static/media/gollum-jade.0169c8cec38027a27c79.webp",
+    "static/media/fiddle-leaf-fig.jpg": "/paradise-nursery/static/media/fiddle-leaf-fig.962b71a92a2e8a8cc7f8.jpg",
+    "index.html": "/paradise-nursery/index.html",
+    "main.faa2994d.css.map": "/paradise-nursery/static/css/main.faa2994d.css.map",
+    "main.199a3fd2.js.map": "/paradise-nursery/static/js/main.199a3fd2.js.map",
+    "453.81c3b423.chunk.js.map": "/paradise-nursery/static/js/453.81c3b423.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faa2994d.css",
+    "static/js/main.199a3fd2.js"
+  ]
+}
