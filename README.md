@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Site
+
+You can check out the live version of the site here:
+
+[Paradise Nursery Live Site](https://Maria-Gul28.github.io/paradise-nursery)
+
 ## Available Scripts
 
 In the project directory, you can run:
