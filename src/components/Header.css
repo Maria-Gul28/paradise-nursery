@@ -1,0 +1,32 @@
+/*header stylying*/
+.header {
+    padding: 1rem;
+    background-color: #92e492;
+    color: white;
+    text-align: center;
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+  }
+  
+  header nav ul li {
+    padding: 10PX;
+    border-radius: 10px;
+    display: inline;
+  }
+  
+  header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+  }
+  
+  header li:hover {
+    transition: 0.2s ease-in;
+    background-color: #72d472; /* Tomato color on hover */
+    text-decoration: underline;
+  }
