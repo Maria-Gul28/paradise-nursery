@@ -11,6 +11,7 @@ const App = () => {
     <Router>
       {/* Header will access cart count via Redux */}
       <Header />
+      <LandingPage />
       <Routes>
         <Route path="/" element={<LandingPage />} />
         <Route path="/products" element={<ProductListingPage />} />
